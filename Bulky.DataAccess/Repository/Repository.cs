@@ -17,22 +17,37 @@ namespace Bulky.DataAccess.Repository
         {
             _dbContext = dbContext;
             this._dbSet = _dbContext.Set<T>();
+            _dbContext.Products.Include(x => x.Category);
+            
         }
         public void Add(T entity)
         {
             _dbSet.Add(entity);
         }
 
-        public T Get(Expression<Func<T, bool>> filter)
+        public T Get(Expression<Func<T, bool>> filter, string? includeProperty = null)
         {
            IQueryable<T> query = _dbSet;
-           query = query.Where(filter);
+           if(!string.IsNullOrEmpty(includeProperty))
+            {
+                foreach(var Include in includeProperty.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProperty);
+                }
+            }
            return query.FirstOrDefault();
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll(string? includeProperty = null)
         {
             IQueryable<T> query = _dbSet;
+            if(!string.IsNullOrEmpty(includeProperty))
+            {
+                foreach(var Include in includeProperty.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProperty);
+                }
+            }
             return query.ToList();
         }
 

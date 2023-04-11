@@ -36,6 +36,13 @@
                 "${workspaceFolder}/BulkyWeb/BulkyWeb.csproj"
             ],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "type": "markdownlint",
+            "problemMatcher": [
+                "$markdownlint"
+            ],
+            "label": "markdownlint: Lint all Markdown files in the workspace with markdownlint"
         }
     ]
 }
