@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ak/OjreUx901sRYE6FmQW8bCL3R5XGvkGN/AC/Bnj8E=",
+  "Hash": "MPKpllzcKqKrXXR1EEhVD9U7+aGyLFGOvo4gqopDd5c=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\060c8a25-a84d-4645-9847-e22564c6fad0.png",
+      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\101eeb58-0ddf-4b25-9b80-21d22276d87d.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/060c8a25-a84d-4645-9847-e22564c6fad0.png",
+      "RelativePath": "Images/Product/101eeb58-0ddf-4b25-9b80-21d22276d87d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\060c8a25-a84d-4645-9847-e22564c6fad0.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\101eeb58-0ddf-4b25-9b80-21d22276d87d.jpg"
     },
     {
-      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\1b446861-cb9e-415c-8762-09e2696f6726.png",
+      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\53b0c5a3-019b-4a09-bf1a-1790db64d4ec.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/1b446861-cb9e-415c-8762-09e2696f6726.png",
+      "RelativePath": "Images/Product/53b0c5a3-019b-4a09-bf1a-1790db64d4ec.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\1b446861-cb9e-415c-8762-09e2696f6726.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\53b0c5a3-019b-4a09-bf1a-1790db64d4ec.jpg"
     },
     {
-      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\a5afd820-ea64-4a57-8d57-74a2c188825d.png",
+      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\54d358f1-04c5-43d1-bfbb-4821f88a64f7.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/a5afd820-ea64-4a57-8d57-74a2c188825d.png",
+      "RelativePath": "Images/Product/54d358f1-04c5-43d1-bfbb-4821f88a64f7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +133,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\a5afd820-ea64-4a57-8d57-74a2c188825d.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\54d358f1-04c5-43d1-bfbb-4821f88a64f7.jpg"
     },
     {
       "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\af630392-350c-4d50-8547-051144fb8c1e.png",
@@ -153,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\af630392-350c-4d50-8547-051144fb8c1e.png"
     },
     {
-      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\f09b1988-950f-4708-80f5-80309105c4d1.png",
+      "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\Images\\Product\\ddf9010b-c4a3-4096-b63d-37beeb48e000.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/f09b1988-950f-4708-80f5-80309105c4d1.png",
+      "RelativePath": "Images/Product/ddf9010b-c4a3-4096-b63d-37beeb48e000.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,7 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\f09b1988-950f-4708-80f5-80309105c4d1.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\ddf9010b-c4a3-4096-b63d-37beeb48e000.jpg"
     },
     {
       "Identity": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\BulkyWeb\\wwwroot\\js\\product.js",
