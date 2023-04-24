@@ -6,6 +6,10 @@ using Bulky.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.DataAccess.Repository;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using BulkyBook.Utility;
+using Bulky.Utility;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +17,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
+
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 // builder.Services.AddDefaultIdentity<IdentityUser>()
 //     .AddEntityFrameworkStores<ApplicationDbContext>();
 
@@ -20,15 +26,21 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
 {
     //option settings...
 })
-.AddEntityFrameworkStores<ApplicationDbContext>()
-.AddDefaultUI()
-.AddDefaultTokenProviders();
+.AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+// .AddDefaultUI()
+builder.Services.ConfigureApplicationCookie(options => {
+    options.LoginPath = $"/Identity/Account/Login";
+    options.LogoutPath = $"/Identity/Account/Logout";
+    options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+});
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IEmailSender, EmailSender>(); 
 
 var app = builder.Build();
 
 app.UseStaticFiles();
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
 
 app.UseRouting();
 app.UseAuthentication();
