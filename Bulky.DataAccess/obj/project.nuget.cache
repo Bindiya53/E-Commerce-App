@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xID/e+9IoyKnCur+YcXy6TS4/qimXcVOE2IVmAbyWmr4kAl4QdeOpUg3thmJa4M8Q6n7zsZHTdyxTNHAB0HyAA==",
+  "dgSpecHash": "pIlAwE0kQi5KojWaDDiD19oiSLeM5XpcqXeMHIKCNBl5VKTtotazB2sgsiPhjzDewDo7Cx4M1wvpxombH56Ncw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
