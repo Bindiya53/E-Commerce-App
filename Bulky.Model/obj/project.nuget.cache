@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEHaXzmSBHXZfW2JQINRbUP+Vw2Bex4DecLZeWNJjaiTDYrLp4FlxpnHe0L3aeMsQrt1Ijo1qNPisaoUm4flYQ==",
+  "dgSpecHash": "6eA51c3KVbYe3A+fP91z9POV1clxua2aw2N3DfCrdpYebLaE4YCJSFOYHO6Mw99AAHSNxRpnKHe3yDEvo0ABYg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj",
+  "projectFilePath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
