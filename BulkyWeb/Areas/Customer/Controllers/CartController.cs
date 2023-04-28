@@ -140,10 +140,8 @@ namespace BulkyWeb.Areas.Customer.Controllers
             }
             _unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
             _unitOfWork.Save();
-            foreach(var cart in ShoppingCartVM.ShoppingCartList)
-            {
-                OrderDetails orderDetail =  new OrderDetails()
-                {
+            foreach(var cart in ShoppingCartVM.ShoppingCartList) {
+                OrderDetails orderDetail = new() {
                     ProductId = cart.ProductId,
                     OrderHeaderId = ShoppingCartVM.OrderHeader.Id,
                     Price = cart.Price,
@@ -152,6 +150,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 _unitOfWork.OrderDetail.Add(orderDetail);
                 _unitOfWork.Save();
             }
+
 
             if(applicationUser.CompanyId.GetValueOrDefault() == 0)
             {
