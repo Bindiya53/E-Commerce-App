@@ -24,11 +24,11 @@ namespace Bulky.DataAccess.Migrations
 
             modelBuilder.Entity("Bulky.Model.Models.Category", b =>
                 {
-                    b.Property<int>("CategoryId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<int>("DisplayOrder")
                         .HasColumnType("int");
@@ -38,26 +38,26 @@ namespace Bulky.DataAccess.Migrations
                         .HasMaxLength(30)
                         .HasColumnType("nvarchar(30)");
 
-                    b.HasKey("CategoryId");
+                    b.HasKey("Id");
 
                     b.ToTable("Categories");
 
                     b.HasData(
                         new
                         {
-                            CategoryId = 1,
+                            Id = 1,
                             DisplayOrder = 1,
                             Name = "Action"
                         },
                         new
                         {
-                            CategoryId = 2,
+                            Id = 2,
                             DisplayOrder = 2,
                             Name = "SciFi"
                         },
                         new
                         {
-                            CategoryId = 3,
+                            Id = 3,
                             DisplayOrder = 3,
                             Name = "History"
                         });

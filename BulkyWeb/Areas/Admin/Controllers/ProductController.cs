@@ -33,7 +33,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 CategoryList = _unitOfWork.Category.GetAll().Select(x => new SelectListItem
                 {
                     Text = x.Name,
-                    Value = x.CategoryId.ToString()
+                    Value = x.Id.ToString()
                 }),
                 Product =  new Product()
             };
@@ -92,7 +92,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 productVM.CategoryList = _unitOfWork.Category.GetAll().Select(x => new SelectListItem
                 {
                     Text = x.Name,
-                    Value = x.CategoryId.ToString()
+                    Value = x.Id.ToString()
                 });
                 return View(productVM);
             };

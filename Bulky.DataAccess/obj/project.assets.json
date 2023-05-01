@@ -2855,6 +2855,19 @@
         "runtime": {
           "bin/placeholder/Bulky.Model.dll": {}
         }
+      },
+      "Bulky.Utitlity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bulky.Utitlity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Utitlity.dll": {}
+        }
       }
     }
   },
@@ -8289,11 +8302,17 @@
       "type": "project",
       "path": "../Bulky.Model/Bulky.Model.csproj",
       "msbuildProject": "../Bulky.Model/Bulky.Model.csproj"
+    },
+    "Bulky.Utitlity/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Utility/Bulky.Utitlity.csproj",
+      "msbuildProject": "../Bulky.Utility/Bulky.Utitlity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Bulky.Model >= 1.0.0",
+      "Bulky.Utitlity >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
@@ -8329,6 +8348,9 @@
           "projectReferences": {
             "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj": {
               "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj"
+            },
+            "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Utility\\Bulky.Utitlity.csproj": {
+              "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Utility\\Bulky.Utitlity.csproj"
             }
           }
         }

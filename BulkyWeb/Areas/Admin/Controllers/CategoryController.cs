@@ -53,7 +53,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            Category? category = _unitOfWork.Category.Get(x => x.CategoryId == id);
+            Category? category = _unitOfWork.Category.Get(x => x.Id == id);
             if( category == null)
             {
                 return NotFound();
@@ -80,7 +80,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            Category? category =  _unitOfWork.Category.Get(x => x.CategoryId == id);
+            Category? category =  _unitOfWork.Category.Get(x => x.Id == id);
             if( category == null)
             {
                 return NotFound();
@@ -91,7 +91,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         [HttpPost, ActionName("Delete")]
         public IActionResult DeleteCategory(int? id)
         {
-            Category category = _unitOfWork.Category.Get(x => x.CategoryId == id);
+            Category category = _unitOfWork.Category.Get(x => x.Id == id);
             if( category == null)
             {
                 return NotFound();

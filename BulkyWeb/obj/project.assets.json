@@ -4321,6 +4321,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Bulky.Model": "1.0.0",
+          "Bulky.Utitlity": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
           "Microsoft.AspNetCore.Identity.UI": "6.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0",

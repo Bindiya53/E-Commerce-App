@@ -15,3 +15,5 @@ c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.Data
 c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.DataAccess\obj\Debug\net6.0\Bulky.DataAccess.pdb
 c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.DataAccess\obj\Debug\net6.0\Bulky.DataAccess.genruntimeconfig.cache
 c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.DataAccess\obj\Debug\net6.0\ref\Bulky.DataAccess.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.DataAccess\bin\Debug\net6.0\Bulky.Utitlity.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.DataAccess\bin\Debug\net6.0\Bulky.Utitlity.pdb
