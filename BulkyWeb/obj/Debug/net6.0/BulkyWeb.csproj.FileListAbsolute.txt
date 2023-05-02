@@ -279,3 +279,4 @@ C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\BulkyWeb\b
 C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\BulkyWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\BulkyWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\BulkyWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\BulkyWeb\bin\Debug\net6.0\appsetings.Production.json
