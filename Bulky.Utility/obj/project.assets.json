@@ -787,11 +787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Utility\\Bulky.Utitlity.csproj",
+      "projectUniqueName": "c:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Utility\\Bulky.Utitlity.csproj",
       "projectName": "Bulky.Utitlity",
-      "projectPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Utility\\Bulky.Utitlity.csproj",
+      "projectPath": "c:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Utility\\Bulky.Utitlity.csproj",
       "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Utility\\obj\\",
+      "outputPath": "c:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"

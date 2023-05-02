@@ -10,3 +10,15 @@ c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.Util
 c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.Utility\obj\Debug\net6.0\refint\Bulky.Utitlity.dll
 c:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.pdb
 C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\E-Commerce App\Bulky.Utility\obj\Debug\net6.0\ref\Bulky.Utitlity.dll
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\bin\Debug\net6.0\Bulky.Utitlity.deps.json
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\bin\Debug\net6.0\Bulky.Utitlity.dll
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\bin\Debug\net6.0\Bulky.Utitlity.pdb
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.csproj.AssemblyReference.cache
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.AssemblyInfoInputs.cache
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.AssemblyInfo.cs
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.csproj.CoreCompileInputs.cache
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.dll
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\refint\Bulky.Utitlity.dll
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\Bulky.Utitlity.pdb
+c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\Bulky.Utility\obj\Debug\net6.0\ref\Bulky.Utitlity.dll

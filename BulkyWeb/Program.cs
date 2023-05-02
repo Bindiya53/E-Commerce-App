@@ -1,19 +1,16 @@
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.AspNetCore.Identity;
-using Bulky.DataAccess.Data;
-using Microsoft.EntityFrameworkCore;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.DataAccess.Repository;
-using Microsoft.AspNetCore.Identity.UI.Services;
-using BulkyBook.Utility;
-using Bulky.Utility;
-using Stripe;
 using Bulky.DataAccess.DbInitializer;
+using Bulky.DataAccess.Repository;
+using Bulky.DataAccess.Repository.IRepository;
+using Bulky.Utility;
+using BulkyBook.Utility;
+using E_Commerce_App.Bulky.DataAccess.Data;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.EntityFrameworkCore;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")

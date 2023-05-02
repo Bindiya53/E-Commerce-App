@@ -1,6 +1,3 @@
-using System.Runtime.InteropServices.ComTypes;
-using System.Collections.Generic;
-using Bulky.DataAccess.Data;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Model.Models;
 using Bulky.Model.ViewModels;

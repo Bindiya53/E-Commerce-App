@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj": {}
+    "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Model\\Bulky.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj": {
+    "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Model\\Bulky.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj",
+        "projectUniqueName": "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Model\\Bulky.Model.csproj",
         "projectName": "Bulky.Model",
-        "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\Bulky.Model.csproj",
+        "projectPath": "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Model\\Bulky.Model.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\E-Commerce App\\Bulky.Model\\obj\\",
+        "outputPath": "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\Bulky.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"

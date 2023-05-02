@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Bulky.DataAccess.Data;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Model.Models;
+using E_Commerce_App.Bulky.DataAccess.Data;
 
 namespace Bulky.DataAccess.Repository
 {
