@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using Bulky.DataAccess.Data;
 using Bulky.DataAccess.Repository.IRepository;
+using E_Commerce_App.Bulky.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Bulky.DataAccess.Repository

@@ -1,5 +1,6 @@
-using Bulky.DataAccess.Data;
+
 using Bulky.DataAccess.Repository.IRepository;
+using E_Commerce_App.Bulky.DataAccess.Data;
 
 namespace Bulky.DataAccess.Repository
 {

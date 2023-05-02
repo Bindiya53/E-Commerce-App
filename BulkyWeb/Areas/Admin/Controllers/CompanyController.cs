@@ -1,11 +1,6 @@
-using System.Runtime.InteropServices.ComTypes;
-using System.Collections.Generic;
-using Bulky.DataAccess.Data;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Model.Models;
-using Bulky.Model.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkyWeb.Areas.Admin.Controllers
 {
