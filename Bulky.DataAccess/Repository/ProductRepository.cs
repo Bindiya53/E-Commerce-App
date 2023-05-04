@@ -29,10 +29,11 @@ namespace Bulky.DataAccess.Repository
                 productObj.Description = product.Description;
                 productObj.CategoryId = product.CategoryId;
                 productObj.Author = product.Author;
-                if(product.ImageUrl != null )
-                {
-                    productObj.ImageUrl = product.ImageUrl;
-                }
+                productObj.ProductImages = product.ProductImages;
+                // if(product.ImageUrl != null )
+                // {
+                //     productObj.ImageUrl = product.ImageUrl;
+                // }
             }
         }
     }
