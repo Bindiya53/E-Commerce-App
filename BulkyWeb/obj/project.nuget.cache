@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h5z5G0KWw8fL8sHHOBsAN5v5HqtnJy9PnUFW2diepR0os6eSttd42mWIgrjl2T2txRlThME6+bQUk3iS61KGew==",
+  "dgSpecHash": "p2vfEW0TlQ69EWTpLUnwUQyxaQXnMyLNDahUYlhk2T0IEmR/jD5+4vCGa5TbuM4xgTqv6+JL7A8rtUebJ7NyRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bindiya.tandel\\Desktop\\E-Commerce App\\E-Commerce-App\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authentication.microsoftaccount\\6.0.0\\microsoft.aspnetcore.authentication.microsoftaccount.6.0.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
