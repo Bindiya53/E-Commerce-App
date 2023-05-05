@@ -32,10 +32,10 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
 });
 
-builder.Services.AddAuthentication().AddMicrosoftAccount(option => {
-    option.ClientId = "ba44a8e6-bc10-47ee-8991-d7f6a1f3b69a";
-    option.ClientSecret = "vPa8Q~gM4_XbvrPTb_ALPM-HDTAEOA2EDv3pOcJI";
-});
+// builder.Services.AddAuthentication().AddMicrosoftAccount(option => {
+//     option.ClientId = "c54394c1-20c6-4fb2-aaa3-a8bfebc8af78";
+//     option.ClientSecret = "C1v8Q~~axqOTHWq_GuqNDksTTKa-dUu6lgW68bhU";
+// });
 
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options => {
