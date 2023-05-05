@@ -562,3 +562,4 @@ c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\BulkyWeb\obj\Debug
 c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\BulkyWeb\obj\Debug\net6.0\BulkyWeb.genruntimeconfig.cache
 c:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\BulkyWeb\obj\Debug\net6.0\ref\BulkyWeb.dll
 C:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\BulkyWeb\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\bindiya.tandel\Desktop\E-Commerce App\E-Commerce-App\BulkyWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll

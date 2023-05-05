@@ -11,6 +11,7 @@
           "Bulky.DataAccess": "1.0.0",
           "Bulky.Model": "1.0.0",
           "Bulky.Utitlity": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": "6.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
@@ -76,6 +77,14 @@
           "Microsoft.AspNetCore.Authentication.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0"
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.MicrosoftAccount/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52608"
+          }
         }
       },
       "Microsoft.AspNetCore.Authorization/2.2.0": {
@@ -2662,6 +2671,13 @@
       "sha512": "sha512-XlVJzJ5wPOYW+Y0J6Q/LVTEyfS4ssLXmt60T0SPP+D8abVhBTl+cgw2gDHlyKYIkcJg7btMVh383NDkMVqD/fg==",
       "path": "microsoft.aspnetcore.authentication.core/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.MicrosoftAccount/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IJp8rePvnhexRYq0gBNcUTra1Cgz1/HR2vOjbnm7RA57U0UqXNWODhlsEP9ZTtMMon1uZIxRHUpFsr4S5gVmkQ==",
+      "path": "microsoft.aspnetcore.authentication.microsoftaccount/6.0.0",
+      "hashPath": "microsoft.aspnetcore.authentication.microsoftaccount.6.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/2.2.0": {
       "type": "package",
